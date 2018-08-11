@@ -1,5 +1,5 @@
 ---
-title: New Beginnings
+title: Redux中间件
 date: "2015-05-28T22:40:32.169Z"
 ---
 

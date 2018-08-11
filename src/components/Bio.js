@@ -18,20 +18,19 @@ class Bio extends React.Component {
       >
         <img
           src={profilePic}
-          alt={`Kyle Mathews`}
+          alt={`yanxingzhe`}
           style={{
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
-            width: rhythm(2),
-            height: rhythm(2),
+            width: rhythm(4),
+            height: rhythm(4),
+            borderRadius: rhythm(4)
           }}
         />
         <p>
-          Written by <strong>Kyle Mathews</strong> who lives and works in San
-          Francisco building useful things.{' '}
-          <a href="https://twitter.com/kylemathews">
-            You should follow him on Twitter
-          </a>
+          作者：<strong>杨夏燕</strong>，花名：燕行者<br/>
+          工作经历：拼多多（2018.7至今），百度（2014.11-2018.7）<br/>
+          住址：上海市长宁区<br/>
         </p>
       </div>
     )
